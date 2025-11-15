@@ -57,51 +57,7 @@ La experiencia interactiva se basa en el mapa de Minecraft **"Find The Button Pl
 | **Experiencia autoexplicativa** | El nombre del mapa y la mecánica del juego eliminan la necesidad de cualquier explicación externa. |
 
       
-### a) Representación Visual
 
-* **¿Cómo decidieron representar cada concepto?**
-    * Decidimos abordar la representación de conceptos técnicos de una manera **implícita y funcional** a través de una experiencia de usuario simplificada.
-    * Utilizamos el mapa de Minecraft **"Find The Button Plus 2"** como entorno principal. La naturaleza del mapa (encontrar un botón oculto) es una metáfora clara de **Búsqueda Algorítmica** y **Control de Flujo Condicional (`IF/THEN`)**. La clave es que la **experiencia de juego en sí misma** actúa como la representación del concepto.
-    * Cada nivel del mapa representa un **Módulo** o una **Función** que debe ejecutarse secuencialmente.
-
-* **¿Qué criterios usaron para el diseño visual?**
-    * El criterio principal fue la **Auto-Explicación Inmersiva**. Elegimos un mapa que, por su diseño y su nombre en inglés, indica inmediatamente la meta del juego ("Find The Button").
-    * Se priorizó la **simplicidad y la navegabilidad** sobre la complejidad, usando niveles cortos para facilitar la comprensión de la **Modularidad**.
-    * El diseño existente del mapa garantiza el cumplimiento del principio de **auto-explicación**.
-
-* **¿Por qué eligieron determinados colores, formas, o disposiciones espaciales?**
-    * La elección recayó en el mapa por su estructura preexistente que garantiza la **disposición espacial intuitiva** y lineal (progreso).
-    * Los niveles son habitaciones cerradas, lo que define claramente un **Ámbito de Acción (Scope)** para cada desafío.
-    * Los colores y formas ya presentes en el mapa se interpretan como **indicadores visuales** de dificultad o estado, evitando la necesidad de una guía explícita.
-
-* **Justificación de sus decisiones de diseño**
-    * Nuestra decisión fue utilizar un mapa popular y simple para cumplir con el requisito de que la experiencia fuera **autoexplicativa** y no necesitara instrucciones adicionales.
-    * El título del mapa actúa como el único *input* de información, permitiendo al usuario saber inmediatamente **qué hacer**, simulando cómo un código bien diseñado debería ser intuitivo.
-
----
-
-### b) Proceso de Desarrollo
-
-* **¿Cómo construyeron el mundo?**
-    * En lugar de la construcción tradicional, nuestro proceso se centró en la **selección, validación y empaquetado** de un mundo que cumpliera los criterios del proyecto.
-    * El proceso incluyó la **Fase 1 (Selección)** del mapa "Find The Button Plus 2", la **Fase 2 (Validación)** de compatibilidad y funcionalidad sin *mods*, y la **Fase 3 (Empaquetado)** del archivo `.zip` para la distribución en GitHub.
-
-* **¿Qué herramientas utilizaron?**
-    * **Plataforma de Juego:** Minecraft Java Edition.
-    * **Control de Versiones y Documentación:** **Git** y **GitHub** (para alojar el archivo de mapa y la documentación profesional).
-    * **Herramientas de Compatibilidad:** Validaciones en diversas versiones de Minecraft (idealmente hasta la versión estable más reciente) para asegurar la accesibilidad.
-
-* **¿Qué desafíos encontraron y cómo los resolvieron?**
-    * **Desafío Principal:** Justificar la falta de "construcción" propia. **Resolución:** Enfocamos el valor del proyecto en la **Investigación, el Análisis de Viabilidad (Reto ASCII)**, y la **Documentación Técnica detallada**.
-    * **Desafío Técnico:** Garantizar que el mapa fuera fácil de descargar y usar. **Resolución:** Proporcionamos el enlace directo del mapa original y una copia en el repositorio de GitHub con instrucciones claras de instalación.
-
-* **Timeline del proyecto**
-    * **Día 1:** Definición del enfoque (mapa preexistente, foco en documentación y reto ASCII).
-    * **Día 2:** Selección y validación del mapa y análisis de su representación de conceptos.
-    * **Días 3-5:** Investigación a fondo del Reto ASCII y desarrollo de la prueba de concepto base.
-    * **Días 6-7:** Redacción final y detallada de toda la documentación (puntos a, b, c, d) y **commits descriptivos** en GitHub.
-
----
 
 ### c) Análisis del Reto Técnico Adicional
 
