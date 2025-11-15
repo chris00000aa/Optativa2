@@ -71,7 +71,7 @@ La experiencia interactiva se basa en el mapa de Minecraft **"Find The Button Pl
 | **Navegación intuitiva sin necesidad de guía** | El diseño del mapa es lineal y el objetivo (el botón) es universalmente conocido, haciendo la navegación intuitiva. |
 | **Experiencia autoexplicativa** | El nombre del mapa y la mecánica del juego eliminan la necesidad de cualquier explicación externa. |
 
-      
+[Descargar «Find The Button Plus 2» (Mapa de Minecraft)] (https://es.mapcraft.me/adventure-maps/find-the-button-plus-2)
 
 
 
