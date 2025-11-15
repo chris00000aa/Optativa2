@@ -1,7 +1,4 @@
 
-## Introducción y Objetivo del Proyecto
-
-El objetivo de esta actividad es demostrar la comprensión de los conceptos técnicos de programación vistos en clase a través de la creación y justificación de un **entorno virtual inmersivo** en Minecraft. Buscamos ofrecer una experiencia educativa donde el diseño visual y la interacción comuniquen efectivamente el conocimiento.
 
 **Integrantes del Equipo:**
 * Ana Laura Flores Barcenas
