@@ -1,5 +1,7 @@
 # Optativa-2
 
+Integrantes: Ana Laura Flores Barcenas - Carlos Perez Garcia - Christian Jesus Pacheco Robles - Keylie Gonzales Soberanis
+
 
  Representación Visual:
 • ¿Cómo decidieron representar cada concepto?
