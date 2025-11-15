@@ -1,4 +1,4 @@
-### 2. DOCUMENTACIÓN COMPLETA EN GITHUB
+
 
 ### a) Representación Visual
 
