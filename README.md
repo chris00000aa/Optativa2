@@ -6,7 +6,64 @@ Integrantes:
 - Christian Jesus Pacheco Robles
 - Keylie Gonzales Soberanis
 
+# OPTATIVA 2: EXPERIENCIA INMERSIVA DE CONCEPTOS TÉCNICOS
 
+---
+
+## Introducción y Objetivo del Proyecto
+
+El objetivo de esta actividad es demostrar la comprensión de los conceptos técnicos de programación vistos en clase a través de la creación y justificación de un **entorno virtual inmersivo** en Minecraft. Buscamos ofrecer una experiencia educativa donde el diseño visual y la interacción comuniquen efectivamente el conocimiento.
+
+**Integrantes del Equipo:**
+* Ana Laura Flores Barcenas
+* Carlos Perez Garcia
+* Christian Jesus Pacheco Robles
+* Keylie Gonzales Soberanis
+
+---
+
+## DESCRIPCIÓN Y ENFOQUE DEL PROYECTO
+
+Hemos seleccionado el mundo virtual de **Minecraft** para implementar una experiencia interactiva que representa los conceptos técnicos mediante una metáfora de juego universalmente reconocida: la búsqueda.
+
+**Conceptos Centrales Representados:**
+* **Control de Flujo Condicional (IF/THEN):** Representado por la necesidad de encontrar el botón para activar la salida y avanzar (la condición debe ser TRUE).
+* **Búsqueda Algorítmica/Iteración (LOOP):** La búsqueda repetitiva del botón dentro de un nivel hasta que la condición se cumple.
+* **Modularidad y Secuenciación:** Cada nivel del mapa es un módulo de código que debe ejecutarse en orden para completar el programa (el mapa).
+
+### Criterio Fundamental: Mundo Autoexplicativo
+
+El proyecto se basa en el mapa **"Find The Button Plus 2"** precisamente porque su título y mecánica son inherentemente autoexplicativos. Cualquier persona que ingrese entiende inmediatamente la tarea: buscar el botón para progresar. Este enfoque garantiza una **navegación intuitiva** y una comprensión implícita de los conceptos sin necesidad de texto, guía o instructor.
+
+---
+
+## RETO TÉCNICO ADICIONAL (Investigación ASCII)
+
+Una vez establecido el entorno de conceptos, el equipo enfrentó el desafío ambicioso de crear un sistema que permita dibujar en la consola (CMD) usando arte ASCII, tomando datos del mundo virtual.
+
+Este componente fue abordado prioritariamente desde la **investigación, documentación, y análisis de viabilidad técnica**, ya que el tiempo fue invertido en demostrar la posibilidad del concepto a través de un prototipo teórico y un avance simple de prueba de concepto.
+
+---
+
+## ENTREGABLES OBLIGATORIOS
+
+### 1. MUNDO VIRTUAL FUNCIONAL:
+
+La experiencia interactiva se basa en el mapa de Minecraft **"Find The Button Plus 2"**.
+
+| Requisito | Cumplimiento y Acceso |
+| :--- | :--- |
+| **Una forma clara de acceder al mundo** | El mapa está disponible para descarga directa en el repositorio de GitHub. |
+| **Instrucciones de Conexión** | Plataforma: **Minecraft Java Edition** (Versión 1.12.2 o superior). <br> Instalación: Simplemente extraer el archivo `.zip` en la carpeta `saves` de Minecraft. |
+| **Los conceptos técnicos representados de manera explícita y obvia** | Los conceptos están representados de forma **implícita y funcional**. La mecánica de *Encontrar el Botón* es la metáfora explícita de la **Condición** y la **Iteración**. |
+| **Navegación intuitiva sin necesidad de guía** | El diseño del mapa es lineal y el objetivo (el botón) es universalmente conocido, haciendo la navegación intuitiva. |
+| **Experiencia autoexplicativa** | El nombre del mapa y la mecánica del juego eliminan la necesidad de cualquier explicación externa. |
+
+---
+
+### 2. DOCUMENTACIÓN COMPLETA EN GITHUB
+
+*El detalle de esta documentación (puntos a, b, c, d) se encuentra en la sección separada (`DOCUMENTACION_COMPLETA.md` o el resto del `README.md`).*
       
 *Análisis del Reto Técnico Adicional*
 
