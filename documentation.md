@@ -49,7 +49,7 @@ Esta sección detalla cómo se gestionó el proyecto basándose en la estrategia
     * **Día 2:** Selección y validación del mapa "Find The Button Plus 2" y análisis de cómo este representa los conceptos de forma implícita.
     * **Días 3-5:** Investigación a fondo del Reto ASCII (como se detalla en la sección 'c'), incluyendo el desarrollo de la prueba de concepto base.
     * **Días 6-7:** Redacción final y detallada de toda la documentación (puntos a, b, c, d) y **commits descriptivos** en GitHub, asegurando la calidad del entregable final.
-    * 
+      
 ### d) Control de Versiones
 
 Esta sección detalla cómo se mantuvo la organización del repositorio y el enfoque en la documentación profesional, incluyendo los detalles del `README.md`.
