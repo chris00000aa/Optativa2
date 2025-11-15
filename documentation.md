@@ -103,7 +103,3 @@ Esta sección detalla cómo se mantuvo la organización del repositorio y el enf
     * El historial de *commits* refleja el enfoque del equipo en la documentación desde el inicio.
     * La progresión lógica muestra las etapas del proyecto: **Setup inicial**, **Investigación ASCII**, y **Redacción de Justificaciones** (a y b).
     * El historial demuestra un trabajo colaborativo y un proceso de documentación constante, no solo un vertido final de contenido.
-
-* **README.md profesional y completo**
-    * Se ha creado un archivo `README.md` que funge como la **puerta de entrada** y guía completa del proyecto, siguiendo las mejores prácticas de documentación de GitHub.
-    * El `README.md` incluye las **Instrucciones Claras de Acceso** al mundo (`ENTREGABLES OBLIGATORIOS - 1. MUNDO VIRTUAL FUNCIONAL`) y sirve como **Índice** para navegar a la documentación detallada contenida en este archivo.
