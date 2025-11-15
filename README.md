@@ -45,17 +45,17 @@ Este componente fue abordado prioritariamente desde la **investigación, documen
 
 * **¿Es lógicamente posible?**
     * Sí es posible. El mundo virtual puede mandar información a la consola y esa información se puede transformar en dibujos hechos con caracteres ASCII. La lógica se basa en el **Mapeo de Datos**, donde la forma espacial se traduce a símbolos de texto. La idea es traducir las formas del mundo en símbolos que sí se puedan mostrar en texto. Por ejemplo un bloque puede ser un gato o un asterisco. No es algo automático pero sí se puede armar.
-
+---
 * **¿Es técnicamente viable?**
     * Sí es viable aunque depende del detalle que se quiera lograr. Se pueden hacer dibujos simples en ASCII sin problema. Lo complicado es hacerlo en tiempo real o con muchos detalles porque la consola solo trabaja con texto y tiene varios límites.
-
+---
 * **¿Qué herramientas o métodos podrían usarse?**
     * **Lenguajes de Procesamiento:** Lenguajes como **Python** o **Java** para manejar la información.
     * **Estructuras de Datos:** **Matrices** para guardar el dibujo antes de mostrarlo.
     * **Renderización:** `Prints` en la consola para formar figuras.
     * **Conexión:** APIs o librerías de Minecraft si se quiere conectar el mundo con código.
     * **Mapeo:** Un sistema donde cada bloque tenga un símbolo que lo represente.
-
+---
 * **¿Qué limitaciones existen?**
     * La consola no puede mostrar muchos detalles ni colores. El espacio para dibujar es pequeño. Los dibujos no van a quedar iguales al mundo virtual (distorsión de proporción). Si se actualiza seguido se vuelve lento. La profundidad es difícil de representar en ASCII.
 ---
