@@ -1,20 +1,10 @@
 # Optativa-2
 
-Integrantes: Ana Laura Flores Barcenas - Carlos Perez Garcia - Christian Jesus Pacheco Robles - Keylie Gonzales Soberanis
-
-
- Representación Visual:
-• ¿Cómo decidieron representar cada concepto?
-• ¿Qué criterios usaron para el diseño visual?
-• ¿Por qué eligieron determinados colores, formas, o disposiciones espaciales?
-• Justificación de sus decisiones de diseño
-
-
- Proceso de Desarrollo:
-• ¿Cómo construyeron el mundo?
-• ¿Qué herramientas utilizaron?
-• ¿Qué desafíos encontraron y cómo los resolvieron?
-• Timeline del proyecto
+Integrantes: 
+- Ana Laura Flores Barcenas 
+- Carlos Perez Garcia
+- - Christian Jesus Pacheco Robles
+-  - Keylie Gonzales Soberanis
 
 
       
