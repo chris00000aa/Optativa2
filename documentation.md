@@ -1,12 +1,3 @@
-# DOCUMENTACIÓN COMPLETA DEL PROYECTO OPTATIVA 2
-
-## Integrantes del Equipo
-* Ana Laura Flores Barcenas
-* Carlos Perez Garcia
-* Christian Jesus Pacheco Robles
-* Keylie Gonzales Soberanis
-
----
 
 ### a) Representación Visual
 
