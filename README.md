@@ -1,12 +1,8 @@
-# Optativa-2
-
 Integrantes: 
 - Ana Laura Flores Barcenas 
 - Carlos Perez Garcia
 - Christian Jesus Pacheco Robles
 - Keylie Gonzales Soberanis
-
-# OPTATIVA 2: EXPERIENCIA INMERSIVA DE CONCEPTOS TÉCNICOS
 
 ---
 
