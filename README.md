@@ -44,9 +44,6 @@ Una vez establecido el entorno de conceptos, el equipo enfrentó el desafío amb
 Este componente fue abordado prioritariamente desde la **investigación, documentación, y análisis de viabilidad técnica**, ya que el tiempo fue invertido en demostrar la posibilidad del concepto a través de un prototipo teórico y un avance simple de prueba de concepto.
 
 ---
-
-## ENTREGABLES OBLIGATORIOS
-
 ### 1. MUNDO VIRTUAL FUNCIONAL:
 
 La experiencia interactiva se basa en el mapa de Minecraft **"Find The Button Plus 2"**.
@@ -59,11 +56,6 @@ La experiencia interactiva se basa en el mapa de Minecraft **"Find The Button Pl
 | **Navegación intuitiva sin necesidad de guía** | El diseño del mapa es lineal y el objetivo (el botón) es universalmente conocido, haciendo la navegación intuitiva. |
 | **Experiencia autoexplicativa** | El nombre del mapa y la mecánica del juego eliminan la necesidad de cualquier explicación externa. |
 
----
-
-### 2. DOCUMENTACIÓN COMPLETA EN GITHUB
-
-*El detalle de esta documentación (puntos a, b, c, d) se encuentra en la sección separada (`DOCUMENTACION_COMPLETA.md` o el resto del `README.md`).*
       
 *Análisis del Reto Técnico Adicional*
 
