@@ -21,6 +21,20 @@ Hemos seleccionado el mundo virtual de **Minecraft** para implementar una experi
 
 El proyecto se basa en el mapa **"Find The Button Plus 2"** precisamente porque su título y mecánica son inherentemente autoexplicativos. Cualquier persona que ingrese entiende inmediatamente la tarea: buscar el botón para progresar. Este enfoque garantiza una **navegación intuitiva** y una comprensión implícita de los conceptos sin necesidad de texto, guía o instructor.
 
+### MUNDO VIRTUAL FUNCIONAL:
+
+La experiencia interactiva se basa en el mapa de Minecraft **"Find The Button Plus 2"**.
+
+| Requisito | Cumplimiento y Acceso |
+| :--- | :--- |
+| **Una forma clara de acceder al mundo** | El mapa está disponible para descarga directa en el repositorio de GitHub. |
+| **Instrucciones de Conexión** | Plataforma: **Minecraft Java Edition** (Versión 1.12.2 o superior). <br> Instalación: Simplemente extraer el archivo `.zip` en la carpeta `saves` de Minecraft. |
+| **Los conceptos técnicos representados de manera explícita y obvia** | Los conceptos están representados de forma **implícita y funcional**. La mecánica de *Encontrar el Botón* es la metáfora explícita de la **Condición** y la **Iteración**. |
+| **Navegación intuitiva sin necesidad de guía** | El diseño del mapa es lineal y el objetivo (el botón) es universalmente conocido, haciendo la navegación intuitiva. |
+| **Experiencia autoexplicativa** | El nombre del mapa y la mecánica del juego eliminan la necesidad de cualquier explicación externa. |
+
+[Descargar «Find The Button Plus 2» (Mapa de Minecraft)] (https://es.mapcraft.me/adventure-maps/find-the-button-plus-2)
+
 ---
 
 ## RETO TÉCNICO ADICIONAL (Investigación ASCII)
@@ -45,22 +59,5 @@ Este componente fue abordado prioritariamente desde la **investigación, documen
 * **¿Qué limitaciones existen?**
     * La consola no puede mostrar muchos detalles ni colores. El espacio para dibujar es pequeño. Los dibujos no van a quedar iguales al mundo virtual (distorsión de proporción). Si se actualiza seguido se vuelve lento. La profundidad es difícil de representar en ASCII.
 ---
-### 1. MUNDO VIRTUAL FUNCIONAL:
-
-La experiencia interactiva se basa en el mapa de Minecraft **"Find The Button Plus 2"**.
-
-| Requisito | Cumplimiento y Acceso |
-| :--- | :--- |
-| **Una forma clara de acceder al mundo** | El mapa está disponible para descarga directa en el repositorio de GitHub. |
-| **Instrucciones de Conexión** | Plataforma: **Minecraft Java Edition** (Versión 1.12.2 o superior). <br> Instalación: Simplemente extraer el archivo `.zip` en la carpeta `saves` de Minecraft. |
-| **Los conceptos técnicos representados de manera explícita y obvia** | Los conceptos están representados de forma **implícita y funcional**. La mecánica de *Encontrar el Botón* es la metáfora explícita de la **Condición** y la **Iteración**. |
-| **Navegación intuitiva sin necesidad de guía** | El diseño del mapa es lineal y el objetivo (el botón) es universalmente conocido, haciendo la navegación intuitiva. |
-| **Experiencia autoexplicativa** | El nombre del mapa y la mecánica del juego eliminan la necesidad de cualquier explicación externa. |
-
-[Descargar «Find The Button Plus 2» (Mapa de Minecraft)] (https://es.mapcraft.me/adventure-maps/find-the-button-plus-2)
-
-
-
-
 * **Si lograron avances qué desarrollaron y cómo funciona:**
     * El equipo logró avanzar en una idea base para una **Prueba de Concepto (PoC)**. Se probó una forma simple para convertir una parte del mundo en un dibujo hecho con caracteres. Se imaginó la estructura como una matriz y en cada espacio se puso un símbolo que representara un bloque. Después se imprimió la matriz en la consola y salió un dibujo en ASCII. No es algo avanzado pero demuestra que se puede empezar así y que el sistema puede crecer más adelante. Es una prueba sencilla que ayuda a entender cómo funcionaría el proceso.
