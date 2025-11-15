@@ -1,12 +1,3 @@
-## 2. DOCUMENTACIÓN COMPLETA EN GITHUB
-
-### Integrantes:
-* Ana Laura Flores Barcenas
-* Carlos Perez Garcia
-* Christian Jesus Pacheco Robles
-* Keylie Gonzales Soberanis
-
----
 
 ### a) Representación Visual
 
