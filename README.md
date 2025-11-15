@@ -1,10 +1,3 @@
-Integrantes: 
-- Ana Laura Flores Barcenas 
-- Carlos Perez Garcia
-- Christian Jesus Pacheco Robles
-- Keylie Gonzales Soberanis
-
----
 
 ## Introducción y Objetivo del Proyecto
 
